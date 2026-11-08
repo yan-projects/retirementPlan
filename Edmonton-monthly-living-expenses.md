@@ -10,7 +10,7 @@ Budget for **four people, a mortgage-free home and two cars with no loans**. Exp
 | Property tax | $600 | Confirmed |
 | Home insurance | $100 | Confirmed |
 | Utilities | $450 | Confirmed |
-| Home maintenance fee | $200 | Confirmed amount; assumed home-related |
+| Home maintenance fee reserve | $200 | Confirmed amount; assumed home-related |
 | Groceries | $3,000 | Confirmed household amount |
 | Kids food and social allowance | $600 | Total for both kids; additional to groceries |
 | Mobile phones | $60 | Confirmed amount; treated as household total |
