@@ -6,7 +6,7 @@ Monthly household expense budget for four people in Edmonton, with a mortgage-fr
 - Expense dashboard: open [docs/index.html](docs/index.html) in a browser.
 - Private hosted dashboard: https://edmonton-household-expenses-nov2026.neonchasm3.chatgpt.site
 
-Confirmed expenses: CAD $5,528.33/month ($66,340/year).
-Full budget including estimates and reserves: CAD $6,828.33/month ($81,940/year).
+Confirmed expenses: CAD $6,128.33/month ($73,540/year).
+Full budget including estimates and reserves: CAD $7,428.33/month ($89,140/year).
 
 The dashboard is a static snapshot; update it alongside the Markdown budget when amounts change.

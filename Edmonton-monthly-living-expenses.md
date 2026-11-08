@@ -12,6 +12,7 @@ Budget for **four people, a mortgage-free home and two cars with no loans**. Con
 | Utilities | $450 | Confirmed |
 | Home maintenance fee | $200 | Confirmed amount; assumed home-related |
 | Groceries | $3,000 | Confirmed household amount |
+| Kids food and social allowance | $600 | Total for both kids; additional to groceries |
 | Mobile phones | $60 | Confirmed amount; treated as household total |
 | Home internet | $80 | Confirmed |
 | Life insurance | $60 | Confirmed |
@@ -27,11 +28,13 @@ Budget for **four people, a mortgage-free home and two cars with no loans**. Con
 | Dining, recreation and subscriptions | $300 | Estimate |
 | Clothing and footwear | $200 | Estimate |
 | Other irregular expense reserve | $300 | Estimate for gifts and unexpected non-housing expenses |
-| **Provisional monthly allocation** | **$6,828.33** | Excludes parking; includes estimates and reserves |
-| **Annual equivalent** | **$81,940** | Uses exact annual registration and dental fees before monthly rounding |
+| **Provisional monthly allocation** | **$7,428.33** | Excludes parking; includes estimates and reserves |
+| **Annual equivalent** | **$89,140** | Uses exact annual registration and dental fees before monthly rounding |
 
-Confirmed housing costs total **$1,350/month**. Confirmed car costs total **$936.67/month**, including the monthly registration allowance and before parking. Including groceries, mobile phones, internet, life insurance and dental, combined confirmed costs are **$5,528.33/month** or **$66,340/year**. Remaining estimated expenses and reserves total **$1,300/month**. Annual totals use the exact $200 registration and $500 dental annual fees; monthly figures are rounded to cents.
+Confirmed housing costs total **$1,350/month**. Confirmed car costs total **$936.67/month**, including the monthly registration allowance and before parking. Including groceries, mobile phones, internet, life insurance, dental and the kids allowance, combined confirmed costs are **$6,128.33/month** or **$73,540/year**. Remaining estimated expenses and reserves total **$1,300/month**. Annual totals use the exact $200 registration and $500 dental annual fees; monthly figures are rounded to cents.
 
 Parking, future vehicle replacement savings, major home repairs beyond the maintenance fee, income tax, other debt payments, childcare or education, major travel, long-term care and major medical costs are not included. Add applicable costs before treating this as a complete household budget. The maintenance fee's coverage has not been confirmed.
 
 The $60 mobile fee is treated as the total for the household, rather than a per-line amount. Reserves are monthly set-asides; actual spending varies by month. Future retirement years require a separate inflation assumption.
+
+The kids allowance is treated as $600/month combined ($300 per child), additional to the $3,000 grocery budget and existing dining/recreation estimate.
