@@ -23,11 +23,12 @@ Budget for **four people, a mortgage-free home and two cars with no loans**. Exp
 | Vehicle registration | $16.67 | Confirmed $200/year; treated as combined total, divided by 12 |
 | Parking | TBD | Not yet provided; excluded from total |
 | Dental | $41.67 | Confirmed $500/year, divided by 12 |
+| Clothing | $300 | Confirmed household amount |
 | Travel reserve | $1,000 | Requested monthly set-aside; $12,000/year |
-| **Total monthly allocation** | **$7,128.33** | Confirmed expenses plus travel reserve; excludes parking |
-| **Annual equivalent** | **$85,540** | Uses exact annual registration and dental fees before monthly rounding |
+| **Total monthly allocation** | **$7,428.33** | Confirmed expenses plus travel reserve; excludes parking |
+| **Annual equivalent** | **$89,140** | Uses exact annual registration and dental fees before monthly rounding |
 
-Confirmed housing costs total **$1,350/month**. Confirmed car costs total **$936.67/month**, including the monthly registration allowance and before parking. Including groceries, mobile phones, internet, life insurance, dental and kids recreation, combined confirmed costs are **$6,128.33/month** or **$73,540/year**. The travel reserve adds **$1,000/month ($12,000/year)**. All five previous estimated expense and reserve items have been removed. Annual totals use the exact $200 registration and $500 dental annual fees; monthly figures are rounded to cents.
+Confirmed housing costs total **$1,350/month**. Confirmed car costs total **$936.67/month**, including the monthly registration allowance and before parking. Including groceries, mobile phones, internet, life insurance, dental, kids recreation and clothing, combined confirmed costs are **$6,428.33/month** or **$77,140/year**. The travel reserve adds **$1,000/month ($12,000/year)**. Previous estimated expense and reserve items were removed; clothing is now included at your supplied $300/month. Annual totals use the exact $200 registration and $500 dental annual fees; monthly figures are rounded to cents.
 
 Parking, future vehicle replacement savings, major home repairs beyond the maintenance fee, income tax, other debt payments, childcare or education, long-term care and major medical costs are not included. Add applicable costs before treating this as a complete household budget. The maintenance fee's coverage has not been confirmed.
 
@@ -35,5 +36,5 @@ The $60 mobile fee is treated as the total for the household, rather than a per-
 
 Kids recreation is treated as $600/month combined ($300 per child), additional to the $3,000 grocery budget.
 
-Removed items: health and prescriptions ($300), household supplies and personal care ($200), dining/recreation/subscriptions ($300), clothing and footwear ($200), and other irregular expense reserve ($300). These expenses are no longer included in the total; no zero spending is implied. Travel reserve contributions are included, so spending from the reserve should not also be counted as an additional monthly allocation.
+Removed items: health and prescriptions ($300), household supplies and personal care ($200), dining/recreation/subscriptions ($300), the earlier clothing and footwear estimate ($200), and other irregular expense reserve ($300). The remaining removed expenses are excluded; clothing is included above at $300/month. Travel reserve contributions are included, so spending from the reserve should not also be counted as an additional monthly allocation.
 
